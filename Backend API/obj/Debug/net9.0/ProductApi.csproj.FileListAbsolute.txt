@@ -31,3 +31,10 @@ C:\Users\Oussama\Desktop\ProductApi\obj\Debug\net9.0\refint\ProductApi.dll
 C:\Users\Oussama\Desktop\ProductApi\obj\Debug\net9.0\ProductApi.pdb
 C:\Users\Oussama\Desktop\ProductApi\obj\Debug\net9.0\ProductApi.genruntimeconfig.cache
 C:\Users\Oussama\Desktop\ProductApi\obj\Debug\net9.0\ref\ProductApi.dll
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\angular.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\package-lock.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\package.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\tsconfig.app.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\tsconfig.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApp\tsconfig.spec.json
+C:\Users\Oussama\Desktop\ProductApi\bin\Debug\net9.0\ProductApi.staticwebassets.runtime.json

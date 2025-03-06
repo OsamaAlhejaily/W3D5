@@ -9,8 +9,10 @@ namespace ProductAPI.Controllers
     {
         private static readonly List<Product> products = new()
         {
-            new Product { Id = 1, Name = "Laptop", Description = "Gaming Laptop", Price = 1200, ImageUrl = "laptop.jpg" },
-            new Product { Id = 2, Name = "Phone", Description = "Smartphone", Price = 800, ImageUrl = "phone.jpg" }
+            new Product { Id = 1, Name = "Laptop", Description = "HP Pavilion Laptop", Price = 1200, ImageUrl = "./images/laptop.jpg" },
+            new Product { Id = 2, Name = "Phone", Description = "Iphone 14", Price = 800, ImageUrl = "./images/phone.jpg"},
+            new Product { Id = 3, Name = "Tablet", Description = "Lenovo Tab M10", Price = 1200, ImageUrl = "./images/tablet.jpg" },
+
         };
 
         [HttpGet]
